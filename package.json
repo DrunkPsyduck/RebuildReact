@@ -1,0 +1,12 @@
+{
+    "name": "tekkno",
+    "version": "3.0.0",
+    "description": "A didactic alternative to React",
+    "license": "MIT",
+    "repository": "DrunkPsyduck/Tekkno",
+    "author": "DrunkPsyduck",
+    "main": "Tekkno.js",
+    "keywords": [
+      "react"
+    ]
+  }
