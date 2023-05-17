@@ -1,3 +1,3 @@
-# Rebuilding-React
+# TEKKNO
 
-Creacion de react desde cero
+A didactic way to rebuild React
